@@ -1,6 +1,6 @@
 #  Student Grade Analyzer (Java Console Project)
 
-![alt text](image.png)
+<img width="342" height="111" alt="image" src="https://github.com/user-attachments/assets/111a707b-6819-4a23-bdc5-094b4507575b" />  ![alt text](image.png)
 
 A simple **Java console application** that analyzes student grades using **arrays**.  
 It takes student marks as input and calculates:
