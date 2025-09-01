@@ -10,7 +10,7 @@ It takes student marks as input and calculates:
 - ✅ Lowest Marks  
 - ✅ Individual Grades (A, B, C, F)
 
----
+
 
 ##  Features
 - Input marks for multiple students
